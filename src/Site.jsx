@@ -126,7 +126,7 @@ export default function Site() {
                 <div className="grid grid-cols-3 gap-4">
                   {[
                     { label: "Monthly Close", value: "3–5 biz days" },
-                    { label: "Avg. Cleanup", value: "30–45 days" },
+                    { label: "Avg. Cleanup", value: "2-3 week average" },
                     { label: "Client NPS", value: "+72" },
                     { label: "Reconciled Accounts", value: "100%" },
                     { label: "Error Rate", value: "< 0.5%" },
